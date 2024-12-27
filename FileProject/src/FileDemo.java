@@ -4,6 +4,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 public class FileDemo {
+	int a;
 static File javafile=null;
 	public static void main(String[] args) {
 		int choice=0;
